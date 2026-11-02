@@ -1,2 +1,2 @@
 # BookStack
-I Create this repository to share the BookStacks createa during my summer trainning.
+This repository contains the BookStacks projects that I developed during my summer training and is intended to share my work and learning experience.
